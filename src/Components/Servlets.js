@@ -50,6 +50,15 @@ src="https://archive.org/embed/5.-servlet-chaining"
 <p className="movie-title">Servlet Chaining</p>
                     </div>
 
+                    <div className="col-md-6">
+                    <iframe id="video1" className="rounded-video" width="600" height="300"
+src="https://www.youtube.com/watch?v=qyS8L2w6J30&list=PLgHflJC6dqUYyX1MxYGGkkpayLOp8pfWT"
+                            title="Sita Ramam"
+                            allowFullScreen
+                        ></iframe>
+<p className="movie-title">About Computer</p>
+                    </div>
+
                                    
                 </div>
             </div>
